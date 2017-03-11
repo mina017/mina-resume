@@ -1,3 +1,3 @@
 # mina-resume
 mina的简历
-  - 主要使用react
+  - 前端 css html div react
